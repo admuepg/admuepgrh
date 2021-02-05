@@ -1,1 +1,1 @@
-# httpm://admuepgrh.github.io
+# http://admuepgrh.github.io
